@@ -1,0 +1,4 @@
+"""Echo module for Testing Pylint Github action."""
+#HI
+#hello
+print ( "from VS code" )
